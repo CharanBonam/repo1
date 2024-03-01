@@ -1,0 +1,7 @@
+git init
+git status
+ls
+git branch release1
+mkdir dir1
+git tag T-1.0
+git origin -d T-1.0
