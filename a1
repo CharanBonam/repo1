@@ -1,9 +1,7 @@
 git init
 git status
 ls
-====qrgxfgdrgt=====
 git branch release1
 mkdir dir1
-=====rwesdfnnvjxdkjgvnjdkfng===sdfdfgd
 git tag T-1.0
 git origin -d T-1.0
